@@ -1,2 +1,3 @@
 # firstone
-my first repository
+hello world!
+this is the first attempt to use the git!
